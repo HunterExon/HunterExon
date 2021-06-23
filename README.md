@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/hunterexon/hunterexon/master/saludo.gif" width="29px"> ¡Hola, soy Juan González!&nbsp;<img src="https://raw.githubusercontent.com/hunterexon/hunterexon/master/mundo.gif" width="24px">
 
 <div align = "center">
-    <h3><img src="#" width="30">👨‍💻 Juan González Cabezuelo | 💻  Desarrollador de Aplicaciones Web | 🐱‍👤 Sevilla, España <img src="#" width="30"></h3>
+    <h3>👨‍💻 Juan González Cabezuelo | 💻  Desarrollador de Aplicaciones Web | 🐱‍👤 Sevilla, España</h3>
 </div>
 
 ## ¡ Me alegro de verte aquí ! 😁 ![](https://visitor-badge.glitch.me/badge?page_id=hunterexon.hunterexon)
