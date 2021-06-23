@@ -12,7 +12,7 @@ Soy un Tecnico Superior titulado 🏗 en Desarrollo de Aplicaciones Web 🎓. So
 
 - 🌱 Actualmente estoy aprendiendo: Javascript, Angular, Sass, PHP, SpringBoot y mucho mas! 🚀
 - 💬 Preguntame sobre cualquier cosa en mi blog
-- 📫 Cómo contactarme: [juangccd@gmail.com](juangccd@gmail.com)
+- 📫 Cómo contactarme: juangccd@gmail.com
 - 😄 He trabajado en: [Ceroone Technology S.L.](https://ceroone.com/)
 - 🎢 La mayoría de mis  proyectos están disponibles en [Github](https://github.com/HunterExon?tab=repositories)
 - ⚡ Dato curioso:  Desarrollador de día 💻 y Gamer de noche 🎮
