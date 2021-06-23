@@ -1,20 +1,19 @@
-## <img src="https://raw.githubusercontent.com/juanjolibrero98/juanjolibrero98/master/saludo.gif" width="29px"> ¡Hola, soy Juan José!&nbsp;<img src="https://raw.githubusercontent.com/juanjolibrero98/juanjolibrero98/master/mundo.gif" width="24px">
+## <img src="https://raw.githubusercontent.com/hunterexon/hunterexon/master/saludo.gif" width="29px"> ¡Hola, soy Juan González!&nbsp;<img src="https://raw.githubusercontent.com/hunterexon/hunterexon/master/mundo.gif" width="24px">
 
 <div align = "center">
-    <h3><img src="#" width="30">👨‍💻 Juan José Librero Cansino | 💻  Desarrollador de Aplicaciones Web | 🐱‍👤 Sevilla, España <img src="#" width="30"></h3>
+    <h3><img src="#" width="30">👨‍💻 Juan González Cabezuelo | 💻  Desarrollador de Aplicaciones Web | 🐱‍👤 Sevilla, España <img src="#" width="30"></h3>
 </div>
 
-## ¡ Me alegro de verte aquí ! 😁 ![](https://visitor-badge.glitch.me/badge?page_id=juanjolibrero98.juanjolibrero98)
+## ¡ Me alegro de verte aquí ! 😁 ![](https://visitor-badge.glitch.me/badge?page_id=hunterexon.hunterexon)
 
-Soy un estudiante de último año 🏗 que cursa una Ciclo Formativo de Grado Superior sobre Desarrollo de Aplicaciones Web 🎓.En el instituto IES. Alixar en Castilleja de la Cuesta, Sevilla 🏫. Soy un joven con muchas ganas 🔋 de aprender y trabajar a través de diversas tecnologías y herramientas🛠. Me encanta explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real.✨. 
+Soy un Tecnico Superior titulado 🏗 en Desarrollo de Aplicaciones Web 🎓. Soy un joven con muchas ganas 🔋 de aprender y trabajar a través de diversas tecnologías y herramientas🛠. Me encanta explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real.✨. 
 
 ### Más sobre mí...
 
-- 🔭 Actualmente estoy estudiando en IES.Alixar
-- 🌱 Actualmente estoy aprendiendo: Javascript, Angular, Sass, MongoDB, PostgresSQL y mucho mas ! 🚀
+- 🌱 Actualmente estoy aprendiendo: Javascript, Angular, Sass, PHP, SpringBoot y mucho mas! 🚀
 - 💬 Preguntame sobre cualquier cosa en mi blog
-- 📫 Cómo contactarme: ...
-- 😄 He trabajado en: ...
+- 📫 Cómo contactarme: [juangccd@gmail.com](juangccd@gmail.com)+
+- 😄 He trabajado en: [Ceroone Technology S.L.](https://ceroone.com/)
 - 🎢 La mayoría de mis  proyectos están disponibles en [Github](https://github.com/HunterExon?tab=repositories)
 - ⚡ Dato curioso:  Desarrollador de día 💻 y Gamer de noche 🎮
 
@@ -54,7 +53,7 @@ Soy un estudiante de último año 🏗 que cursa una Ciclo Formativo de Grado Su
 
 ### <div align="center"> 🔥  Encuéntrame en otro lugar  <img src="https://raw.githubusercontent.com/hunterexon/hunterexon/master/contacto.gif" height="33px"></div>
 <div align="center">
-    <a href="#" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram"> &nbsp; &nbsp; </a>
-    <a href="#" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" > &nbsp; &nbsp; </a>
-    <a href="#" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter"></a>
+    <a href="https://www.instagram.com/hunterexon/" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram"> &nbsp; &nbsp; </a>
+    <a href="https://www.linkedin.com/in/juan-gonzález-cabezuelo/" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" > &nbsp; &nbsp; </a>
+    <a href="https://twitter.com/FakeDeadly" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter"></a>
 </div>
