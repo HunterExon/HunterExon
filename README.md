@@ -1,6 +1,3 @@
-[![Header](https://raw.githubusercontent.com/juanjolibrero98/juanjolibrero98/master/header-readme.png "Header")]()
-
-
 ## <img src="https://raw.githubusercontent.com/juanjolibrero98/juanjolibrero98/master/saludo.gif" width="29px"> ¡Hola, soy Juan José!&nbsp;<img src="https://raw.githubusercontent.com/juanjolibrero98/juanjolibrero98/master/mundo.gif" width="24px">
 
 <div align = "center">
@@ -18,7 +15,7 @@ Soy un estudiante de último año 🏗 que cursa una Ciclo Formativo de Grado Su
 - 💬 Preguntame sobre cualquier cosa en mi blog
 - 📫 Cómo contactarme: ...
 - 😄 He trabajado en: ...
-- 🎢 La mayoría de mis  proyectos están disponibles en [Github](https://github.com/juanjolibrero98)
+- 🎢 La mayoría de mis  proyectos están disponibles en [Github](https://github.com/HunterExon?tab=repositories)
 - ⚡ Dato curioso:  Desarrollador de día 💻 y Gamer de noche 🎮
 
 <div align="center">
@@ -51,11 +48,11 @@ Soy un estudiante de último año 🏗 que cursa una Ciclo Formativo de Grado Su
 ---
 ### Estadísticas de mi perfil en GitHub
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juanjolibrero98&show_icons=true&theme=algolia)](#)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjolibrero98&layout=compact)](#)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hunterexon&show_icons=true&theme=algolia)](#)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterexon&layout=compact)](#)
  
 <hr>
 
-### <div align="center"> 🔥  Encuéntrame en otro lugar  <img src="https://raw.githubusercontent.com/juanjolibrero98/juanjolibrero98/master/contacto.gif" height="33px"></div>
+### <div align="center"> 🔥  Encuéntrame en otro lugar  <img src="https://raw.githubusercontent.com/hunterexon/hunterexon/master/contacto.gif" height="33px"></div>
 <div align="center">
     <a href="#" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram"> &nbsp; &nbsp; </a>
     <a href="#" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" > &nbsp; &nbsp; </a>
