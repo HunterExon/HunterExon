@@ -21,7 +21,7 @@ Soy un Tecnico Superior titulado 🏗 en Desarrollo de Aplicaciones Web 🎓. So
     🤔 Buscando un trabajo que me ayude a aprovechar al máximo mis habilidades.
     <br>
 
-   [Ver mi CV]() | [Ver mis certificados]()
+   [Ver mi CV]() | [Ver mis certificados](https://openwebinars.net/cert/B9k9M?r=6340106f1&t=1623972741)
 </div>
 <hr>
 
