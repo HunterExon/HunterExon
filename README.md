@@ -15,7 +15,6 @@ Soy un Tecnico Superior titulado 🏗 en Desarrollo de Aplicaciones Web 🎓. So
 - 📫 Cómo contactarme: juangccd@gmail.com
 - 😄 He trabajado en: [Ceroone Technology S.L.](https://ceroone.com/)
 - 🎢 La mayoría de mis  proyectos están disponibles en [Github](https://github.com/HunterExon?tab=repositories)
-- ⚡ Dato curioso:  Desarrollador de día 💻 y Gamer de noche 🎮
 
 <div align="center">
     🤔 Buscando un trabajo que me ayude a aprovechar al máximo mis habilidades.
