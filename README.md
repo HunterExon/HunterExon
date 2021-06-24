@@ -46,11 +46,11 @@ Soy un Tecnico Superior titulado 🏗 en Desarrollo de Aplicaciones Web 🎓. So
 ---
 ### Estadísticas de mi perfil en GitHub
 <div align="left"> 
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hunterexon&show_icons=true&theme=algolia)](#)
+    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hunterexon&show_icons=true&theme=algolia)]
 </div>
        
 <div align="right"> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterexon&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterexon&layout=compact)]
 </div>
  
 <hr>
