@@ -20,7 +20,7 @@ Soy un Tecnico Superior titulado 🏗 en Desarrollo de Aplicaciones Web 🎓. So
     🤔 Buscando un trabajo que me ayude a aprovechar al máximo mis habilidades.
     <br>
 
-   [Ver mi CV](https://github.com/juangccd/juangccd/blob/main/CV%20Juan%20González%20Cabezuelo.pdf) | [Ver mis certificados](https://openwebinars.net/cert/B9k9M?r=6340106f1&t=1623972741)
+   [Ver mi CV](https://github.com/juangccd/juangccd/blob/main/CV%20Juan%20González%20Cabezuelo%20(Español).pdf) | [Ver mis certificados](https://openwebinars.net/cert/B9k9M?r=6340106f1&t=1623972741)
 </div>
 <hr>
 
