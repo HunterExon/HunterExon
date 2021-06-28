@@ -1,10 +1,10 @@
-## <img src="https://raw.githubusercontent.com/hunterexon/hunterexon/master/saludo.gif" width="29px"> ¡Hola, soy Juan González!&nbsp;<img src="https://raw.githubusercontent.com/hunterexon/hunterexon/master/mundo.gif" width="24px">
+## <img src="https://raw.githubusercontent.com/juangccd/juangccd/master/saludo.gif" width="29px"> ¡Hola, soy Juan González!&nbsp;<img src="https://raw.githubusercontent.com/juangccd/juangccd/master/mundo.gif" width="24px">
 
 <div align = "center">
     <h3>👨‍💻 Juan González Cabezuelo | 💻  Desarrollador de Aplicaciones Web | 🐱‍👤 Sevilla, España</h3>
 </div>
 
-## ¡ Me alegro de verte aquí ! 😁 ![](https://visitor-badge.glitch.me/badge?page_id=hunterexon.hunterexon)
+## ¡ Me alegro de verte aquí ! 😁 ![](https://visitor-badge.glitch.me/badge?page_id=juangccd.juangccd)
 
 Soy un Tecnico Superior titulado 🏗 en Desarrollo de Aplicaciones Web 🎓. Soy un joven con muchas ganas 🔋 de aprender y trabajar a través de diversas tecnologías y herramientas🛠. Me encanta explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real.✨. 
 
@@ -14,13 +14,13 @@ Soy un Tecnico Superior titulado 🏗 en Desarrollo de Aplicaciones Web 🎓. So
 - 💬 Preguntame sobre cualquier cosa en mi blog
 - 📫 Cómo contactarme: juangccd@gmail.com
 - 😄 He trabajado en: [Ceroone Technology S.L.](https://ceroone.com/)
-- 🎢 La mayoría de mis  proyectos están disponibles en [Github](https://github.com/HunterExon?tab=repositories)
+- 🎢 La mayoría de mis  proyectos están disponibles en [Github](https://github.com/juangccd?tab=repositories)
 
 <div align="center">
     🤔 Buscando un trabajo que me ayude a aprovechar al máximo mis habilidades.
     <br>
 
-   [Ver mi CV](https://github.com/HunterExon/HunterExon/blob/main/CV%20Juan%20González%20Cabezuelo.pdf) | [Ver mis certificados](https://openwebinars.net/cert/B9k9M?r=6340106f1&t=1623972741)
+   [Ver mi CV](https://github.com/juangccd/juangccd/blob/main/CV%20Juan%20González%20Cabezuelo.pdf) | [Ver mis certificados](https://openwebinars.net/cert/B9k9M?r=6340106f1&t=1623972741)
 </div>
 <hr>
 
@@ -46,13 +46,13 @@ Soy un Tecnico Superior titulado 🏗 en Desarrollo de Aplicaciones Web 🎓. So
 ---
 ### Estadísticas de mi perfil en GitHub
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hunterexon&show_icons=true&theme=algolia)](#)              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterexon&layout=compact)](#)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juangccd&show_icons=true&theme=algolia)](#)              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juangccd&layout=compact)](#)
 
 <hr>
 
-### <div align="center"> 🔥  Encuéntrame en otro lugar  <img src="https://raw.githubusercontent.com/hunterexon/hunterexon/master/contacto.gif" height="33px"></div>
+### <div align="center"> 🔥  Encuéntrame en otro lugar  <img src="https://raw.githubusercontent.com/juangccd/juangccd/master/contacto.gif" height="33px"></div>
 <div align="center">
-    <a href="https://www.instagram.com/hunterexon/" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram"> &nbsp; &nbsp; </a>
+    <a href="https://www.instagram.com/juangccd/" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram"> &nbsp; &nbsp; </a>
     <a href="https://www.linkedin.com/in/juan-gonzález-cabezuelo/" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" > &nbsp; &nbsp; </a>
     <a href="https://twitter.com/FakeDeadly" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter"></a>
 </div>
