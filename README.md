@@ -52,7 +52,7 @@ Soy un Tecnico Superior titulado 🏗 en Desarrollo de Aplicaciones Web 🎓. So
 
 ### <div align="center"> 🔥  Encuéntrame en otro lugar  <img src="https://raw.githubusercontent.com/juangccd/juangccd/master/contacto.gif" height="33px"></div>
 <div align="center">
-    <a href="https://www.instagram.com/juangccd/" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram"> &nbsp; &nbsp; </a>
+    <a href="https://www.instagram.com/hunterexon/" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram"> &nbsp; &nbsp; </a>
     <a href="https://www.linkedin.com/in/juan-gonzález-cabezuelo/" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" > &nbsp; &nbsp; </a>
     <a href="https://twitter.com/FakeDeadly" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter"></a>
 </div>
