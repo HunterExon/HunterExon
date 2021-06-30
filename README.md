@@ -13,11 +13,11 @@ Soy un Tecnico Superior titulado 🏗 en Desarrollo de Aplicaciones Web 🎓. So
 - 🌱 Actualmente estoy aprendiendo: Javascript, Angular, Sass, PHP, SpringBoot y mucho mas! 🚀
 - 💬 Preguntame sobre cualquier cosa en mi blog
 - 📫 Cómo contactarme: juangccd@gmail.com
-- 😄 He trabajado en: [Ceroone Technology S.L.](https://ceroone.com/)
+- 😄 Trabajo como Técnico de Soporte y Desarrollo en: [Ceroone Technology S.L.](https://ceroone.com/)
 - 🎢 La mayoría de mis  proyectos están disponibles en [Github](https://github.com/juangccd?tab=repositories)
 
 <div align="center">
-    🤔 Buscando un trabajo que me ayude a aprovechar al máximo mis habilidades.
+    🤔 Dato Curioso: Actualmente estoy realizando las tareas de un programador Junior a la vez que realizo soporte y atención al cliente xD
     <br>
 
    [Ver mi CV](https://github.com/juangccd/juangccd/blob/main/CV%20Juan%20González%20Cabezuelo%20(Español).pdf) | [Ver mis certificados](https://openwebinars.net/cert/B9k9M?r=6340106f1&t=1623972741)
