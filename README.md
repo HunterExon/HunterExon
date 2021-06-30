@@ -11,9 +11,9 @@ Soy un Tecnico Superior titulado 🏗 en Desarrollo de Aplicaciones Web 🎓. So
 ### Más sobre mí...
 
 - 🌱 Actualmente estoy aprendiendo: Javascript, Angular, Sass, PHP, SpringBoot y mucho mas! 🚀
-- 💬 Preguntame sobre cualquier cosa en mi blog
+- 💬 Preguntame sobre cualquier cosa en mi correo
 - 📫 Cómo contactarme: juangccd@gmail.com
-- 😄 Trabajo como Técnico de Soporte y Desarrollo en: [Ceroone Technology S.L.](https://ceroone.com/)
+- 😄 Trabajo como Técnico de Soporte y Desarrollo en [Ceroone Technology S.L.](https://ceroone.com/)
 - 🎢 La mayoría de mis  proyectos están disponibles en [Github](https://github.com/juangccd?tab=repositories)
 
 <div align="center">
